@@ -6,4 +6,4 @@ StarterGui:SetCore("SendNotification", {
     Duration = 5; --
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeluka11/PetSimulator99/refs/heads/main/Luaexe"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeluka11/PetSimulator99/main/Luaexe"))()
